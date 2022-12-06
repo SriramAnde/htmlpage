@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Welcome</title> 
+ </head>
+ <body>
+  <h1>hello world......</h1>
+  <h2>iam sriram Ande</h2>
+  
+  <hr><hr>
+  <hr><hr>
+  <h1><marquee bgcolor="#1A4B68">welcome to my page</marquee>
+  <hr><hr>
+  <fieldset>
+  <p>iam sriram ande from warangal iam a btech graduate in vaagdevi enginerring college</p>
+  </fieldset>
+   <form>
+	<P>first name:<input type ="text" placeholder="your name"></p>
+	<p>last name:<input type="text"></P>
+	<p>sex
+	<select>
+		<option>male</option>
+		<option>female</option>
+	</select>
+   </form>   
+ </body>
+</html>
